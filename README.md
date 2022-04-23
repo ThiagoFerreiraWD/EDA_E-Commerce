@@ -4,7 +4,8 @@ Analise de registros e respostas à perguntas de negócios relacionadas a uma em
 
 ***
 
-![banner_eda_ecommerce](https://user-images.githubusercontent.com/54869201/164910412-0426aafd-7378-4d40-8bb7-e6606f4e3efd.png)
+![banner_eda_ecommerce](https://user-images.githubusercontent.com/54869201/164910751-454803b2-267e-4782-8203-d497300b92dd.jpg)
+
 
 ## Ferramentas e linguagens utilizadas:
 <div> 

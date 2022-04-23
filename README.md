@@ -14,7 +14,7 @@ Analise de registros e respostas à perguntas de negócios relacionadas a uma em
 
 ## Descrição dos arquivos:
 
-1. **EDA-E-COMMERCE.ipynb:** Processo de exploração dos dados e apresentação dos resultados.
+1. **EDA_E-COMMERCE.ipynb:** Processo de exploração dos dados e apresentação dos resultados.
 1. **dataset.csv:** Base de dados contendo os registros.
 
 
